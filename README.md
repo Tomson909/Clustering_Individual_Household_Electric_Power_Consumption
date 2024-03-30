@@ -1,4 +1,4 @@
-# Household Electricity Consumption Dataset
+# Clustering: Household Electricity Consumption Dataset
 This directory applies clustering and some data analysis on a dataset which contains the electric power consumption data from a household near france.
 This Data was taken from [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption). With this directory I document my portfolio examination at my university. This dataset contains **2,075,259** measurements gathered in a house located in Sceaux, France, approximately 7km from Paris, between December 2006 and November 2010, spanning a total of **47 months**.
 
@@ -34,7 +34,7 @@ This Data was taken from [UCI Machine Learning Repository](https://archive.ics.u
 
 - Exploratory Data Analysis (EDA): Understanding the distributions, patterns, and relationships within the dataset.
 - Feature engineering: Creating new features or transforming existing ones to enhance model performance.
-- Modeling: Utilizing machine learning algorithms such as regression or time series forecasting to predict electricity consumption.
+- Modeling: Utilizing clustering algorithms to find patterns in the dataset.
 - Evaluation: Assessing model performance using appropriate metrics and validating against test datasets.
 - Interpretation: Drawing insights from the models to understand factors influencing electricity consumption.
 
