@@ -38,3 +38,9 @@ This Data was taken from [UCI Machine Learning Repository](https://archive.ics.u
 - Modeling: Utilizing clustering algorithms to find patterns in the dataset.
 - Evaluation: Assessing model performance using appropriate metrics and validating against test datasets.
 - Interpretation: Drawing insights from the models to understand factors influencing electricity consumption.
+
+
+## References
+
+1. [How to Load and Explore Household Electricity Usage Data](https://machinelearningmastery.com/how-to-load-and-explore-household-electricity-usage-data/)
+2. [Individual Household Electric Power Consumption Data Set - Jupyter Notebook](https://github.com/amirrezaeian/Individual-household-electric-power-consumption-Data-Set-/blob/master/data_e_power.ipynb)
